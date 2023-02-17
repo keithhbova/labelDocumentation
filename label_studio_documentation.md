@@ -6,6 +6,21 @@
 
 ### For windows users: 
 
+1. Download Anaconda Installer (https://docs.anaconda.com/anaconda/install/windows)
+2. On your search menu, type anaconda and get the following prompt 
+
+3. Creating a python environment. On the console: (this step is optional) 
+    - conda create -- name label studio pip 
+    - y to accept 
+    - activate label studio (enter the environment) 
+        -deactivate (for leaving) 
+     
+4. Getting label studio ( this will take a bit of time) 
+    -pip install label-studio 
+    
+5. Launching label studio: 
+label-studio start 
+    -label-studio (this is going to open label studio on internet browser) 
 
 ## Setting up a project with Semantic Segmentation, Using Label Studio:
 
