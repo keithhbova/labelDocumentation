@@ -2,9 +2,9 @@
 
 ## How to install label studio:
 
+### Note: You need Python 3.7 or later to be able to install label studio on either a windows computer or a Mac. 
 
-Add install here
-filler text
+### For windows users: 
 
 
 ## Setting up a project with Semantic Segmentation, Using Label Studio:
