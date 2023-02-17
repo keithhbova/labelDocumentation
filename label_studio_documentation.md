@@ -25,10 +25,10 @@ label-studio start
 ### For Mac users: 
 
 1. We will be installing label studio, so open your terminal and type the following: 
-    pip install label-studio 
+        pip install label-studio 
     
 2. After you install label studio, start the server with the following command (this is going to open label studio on internet browser): 
-    label-studio 
+        label-studio 
 ## Setting up a project with Semantic Segmentation, Using Label Studio:
 
 ### After creating a new project, go to labeling setup, and select "Semantic Segmentation With Polygons:"
