@@ -4,7 +4,7 @@
 
 ### Note: You need Python 3.7 or later to be able to install label studio on either a windows computer or a Mac. 
 
-### For windows users: 
+### For Windows users: 
 
 1. Download Anaconda Installer (https://docs.anaconda.com/anaconda/install/windows)
 2. On your search menu, type anaconda and get the following prompt 
@@ -21,7 +21,14 @@
 5. Launching label studio: 
 label-studio start 
     -label-studio (this is going to open label studio on internet browser) 
+    
+### For Mac users: 
 
+1. We will be installing label studio, so open your terminal and type the following: 
+    pip install label-studio 
+    
+2. After you install label studio, start the server with the following command (this is going to open label studio on internet browser): 
+    label-studio 
 ## Setting up a project with Semantic Segmentation, Using Label Studio:
 
 ### After creating a new project, go to labeling setup, and select "Semantic Segmentation With Polygons:"
